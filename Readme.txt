@@ -16,6 +16,6 @@ Sales and Purchases: Tracks the financial transactions for customers and vendors
 
 
 
-
+company centric user management architecture
 
 python manage.py loaddata user_groups.json
